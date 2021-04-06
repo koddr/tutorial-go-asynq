@@ -1,6 +1,10 @@
 # 📖 Tutorial: Asynq. Simple, reliable & efficient distributed task queue for your next Go project
 
-👉 The full article is published on **April 7, 2021**, on Dev.to:
+Asynq is a Go library for queueing tasks and processing them asynchronously with workers. It's backed by Redis and is designed to be scalable yet easy to get started. Task queues are used as a mechanism to distribute work across multiple machines.
+
+👉 The full article is published on **April 7, 2021**, on Dev.to: https://dev.to/koddr/asynq-simple-reliable-efficient-distributed-task-queue-for-your-next-go-project-4jhg
+
+![article preview pic](https://user-images.githubusercontent.com/11155743/113790679-89c9a600-974a-11eb-9aca-b4d15187e6cb.jpg)
 
 ## Quick start
 
