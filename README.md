@@ -27,6 +27,14 @@ make client
 
 ![Screenshot](https://user-images.githubusercontent.com/11155743/113557216-57af2b80-9606-11eb-8ab6-df023b14e5c1.png)
 
+## P.S.
+
+If you want more articles like this on this blog, then post a comment below and subscribe to me. Thanks! 😘
+
+And, of course, you can support me by donating at [LiberaPay](https://liberapay.com/koddr/donate). _Each donation will be used to write new articles and develop non-profit open-source projects for the community._
+
+[![Support author at LiberaPay](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zq8442cqyjq2i1jdeay8.png)](https://liberapay.com/koddr/donate)
+
 ## ⚠️ License
 
 MIT &copy; [Vic Shóstak](https://shostak.dev/) & [True web artisans](https://1wa.co/).
